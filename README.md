@@ -6,17 +6,40 @@
 
 <img src="./assets/imu.png" alt="" width="440" />
 
-<br/><br/>
-
-![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-58a6ff?style=flat-square&labelColor=0d1117&color=1f6feb)
-![Node](https://img.shields.io/badge/Node-58a6ff?style=flat-square&labelColor=0d1117&color=1f6feb)
-![Supabase](https://img.shields.io/badge/Supabase-58a6ff?style=flat-square&labelColor=0d1117&color=1f6feb)
-
 </div>
 
 <br/>
 
-I build small web tools for students — the kind that do one thing, load fast, and don't ask you to make an account first. Mostly vanilla JavaScript, Node, and Supabase. No framework unless the project actually needs one.
+I build web and mobile tools for students — the kind that do one thing, load fast, and don't ask you to make an account first. I reach for a framework when a project earns it, and keep things plain when it doesn't.
+
+<br/>
+
+### Tech
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=58a6ff)
+![C#](https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=csharp&logoColor=58a6ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=58a6ff)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=58a6ff)
+
+**Frameworks & runtime**
+
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=58a6ff)
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=58a6ff)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=58a6ff)
+
+**Web & data**
+
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=58a6ff)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=58a6ff)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=58a6ff)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=58a6ff)
+
+</div>
 
 <br/>
 
@@ -42,8 +65,3 @@ I keep business logic out of the UI, prefer pure functions I can test without a 
 ### Reach me
 
 kkyleplayz@gmail.com
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kkyleee23&show_icons=true&hide_border=true&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&bg_color=0d1117" />
-</div>
-
