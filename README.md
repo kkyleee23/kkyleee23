@@ -6,8 +6,7 @@
 ░██░██ ░██░██ ░█████████ ░██ ░██        ░██    ░██ ░██   ░██   ░██ ░█████████     
 ░████   ░████ ░██        ░██ ░██    ░██ ░██    ░██ ░██   ░██   ░██ ░██            
 ░███     ░███  ░███████  ░██  ░███████   ░███████  ░██   ░██   ░██  ░███████  ░██ 
-                                                                               ░█ 
-                                                                              ░█                                         
+                                                                               ░█                                                                                                                 
 ```
 ## Hi, I'm Kyle
 I build small web tools for students — the kind that do one thing, load fast, and don't
@@ -35,12 +34,6 @@ from the model's general knowledge. *Node, Express, Groq (Llama 3.3 70B).*
 and web. Tasks, notes, goals, and an assistant called Nora, in under 5MB, no account
 required. *HTML, CSS, vanilla JS — no build step, no dependencies.*
 [Live](https://planora-official.vercel.app)
-
-### How I work
-
-I keep business logic out of the UI, prefer pure functions I can test without a browser,
-and write plain CSS before reaching for a framework. If a project doesn't need a build
-step, it doesn't get one.
 
 ### Reach me
 
