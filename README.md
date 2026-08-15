@@ -1,7 +1,7 @@
 <div align="center">
 <br/>
 
-<img src="./assets/ascii-art-text (2).png" alt="" width="440" />
+<img src="./assets/kyle.png" alt="" width="440" />
 
 </div>
 
