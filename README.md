@@ -64,4 +64,4 @@ I keep business logic out of the UI, prefer pure functions I can test without a 
 
 ### Reach me
 
-kkyleplayz@gmail.com
+junizkylesarmiento@gmail.com
