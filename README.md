@@ -7,7 +7,7 @@
 
 <br/>
 
-I build web and mobile tools for students — the kind that do one thing, load fast, and don't ask you to make an account first. I reach for a framework when a project earns it, and keep things plain when it doesn't.
+I build web and mobile tools for students. The kind that do one thing, load fast and do not ask you to make an account first. I reach for a framework when a project earns it and keep things plain when it doesn't.
 
 <br/>
 
