@@ -1,10 +1,7 @@
 <div align="center">
-
-<img src="./assets/banner.svg" alt="kyle — student developer" width="100%" />
-
 <br/>
 
-<img src="./assets/imu.png" alt="" width="440" />
+<img src="./assets/ascii-art-text (2).png" alt="" width="440" />
 
 </div>
 
