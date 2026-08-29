@@ -5,7 +5,7 @@
 
 **Backend-focused Full-Stack Developer**
 
-Backend is where I am strongest: data, APIs, and the pipeline behind the screen. I learned the front end so I could ship a whole thing myself instead of handing half of it off.
+Backend is where I excel: data, APIs, and the pipeline behind the screen. I learned the front end so I could ship a whole thing myself instead of handing half of it off.
 
 <br/>
 
